@@ -1,0 +1,58 @@
+#page {
+    background-color: blue;
+    padding: 50px;
+}
+
+.mainheading {
+    font-size: 25px;
+    color: white;
+    margin-left: 300px;
+}
+.mainheading1 {
+    font-size: 20px;
+    color: white;
+    margin-left: 300px;
+}
+#firstouterbox {
+    /* border: 2px dashed white; */
+    height: 420px;
+    width: 1200px;
+    margin: 0px 0px 20px 180px;
+    color: white;
+}
+#innerbox {
+    /* border: 2px dashed white; */
+    height: 400px;
+    width: 450px;
+    float: left;
+    color: white;
+    margin: 0px 70px;
+}
+.inside_box {
+    background-color: wheat;
+    border-radius: 10px;
+    color: black;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    cursor: pointer;
+}
+.lastbox {
+    /* border: 2px dashed red; */
+    width: 400px;
+    float: left;
+    margin: 0px 70px;
+    text-align: center;
+    margin-left: 25%;
+    color: white;
+}
+.lastbox1 {
+    background-color: darkblue;
+    border-radius: 5px;
+    height: 50px;
+    width: 250px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
