@@ -1,0 +1,164 @@
+body {
+                background-color: rgb(239,245,248);
+            }
+            #top-bar {
+                width: 100%;
+                height: 100px;
+                
+            }
+            #chargeBee {
+                width: 140px;
+                height: 80px;
+                
+                float: left;
+                font-family: 'Dancing Script', cursive;
+                font-size: 32px;
+                padding: 10px;
+            }
+            .top-left {
+                width: 100px;
+                height: 80px;
+                
+                float: left;
+                font-family: 'Karla', sans-serif;
+                font-size: 15px;
+                text-align: center;
+                font-weight: 540;
+                padding-top: 20px;
+            }
+            #top-right {
+                background-color: rgb(255,120,70)
+;
+                width: 170px;
+                height: 25px;
+                float: right;
+                margin: 20px 50px 20px 10px;
+                font-family: 'Karla', sans-serif;
+                font-weight: 540;
+                color: white;
+                text-align: center;
+                padding: 5px;
+                border-radius: 2px;
+            }
+            #log-in {
+                width: 100px;
+                height: 25px;
+                float: right;
+                margin: 25px 0;
+                font-family: 'Karla', sans-serif;
+                
+                color: black;
+                font-weight: 540;
+
+            }
+            span {
+                font-size: 20px;
+            }
+            #container {
+                height: 336px;
+                width: 100%;
+                
+                margin-top: 100px;
+            }
+            #container > div {
+                height: 112px;
+                width: 100%;
+                
+                text-align: center;
+                
+                
+            }
+            .font-style {
+                font-family: 'Karla', sans-serif;
+                font-weight: 740;
+            }
+            .large-text {
+                font-size: 50px;
+                color: rgb(80,10,210);
+            }
+            .black {
+                color: black;
+            }
+            #small-text {
+                font-size: 20px;
+                padding-top: 20px;
+            }
+            
+            #midBox1 {
+                background-color: rgb(80,10,210);
+                height: 30px;
+                width: 200px;
+                margin: 0 450px;
+                float: left;
+                
+               
+            }
+            p {
+                text-align: center;
+                font-size: 25px;
+            }
+            #logo {
+                width: 65%;
+                height: 50px;
+                margin: auto;
+               
+            }
+            #logo > div {
+                width: 20%;
+                height: 50px;
+                margin: 0 2%;
+               
+                float: left;
+            }
+            #post {
+                width: 75%;
+                height: 1500px;
+               
+                margin: 100px auto;
+            }
+            #post > div {
+                width: 100%;
+                height: 500px;
+               
+            }
+            #post > div > div {
+                width: 38%;
+                height: 400px;
+                
+                float: left;
+                margin: 3%;
+                padding-right: 30px;
+            }
+            #post > div > div > p:first-child {
+                color: blueviolet;
+                font-size: 15px;
+                text-align: left;
+            }
+            .left-align{
+                text-align: left;
+            }
+            #post > div > div > div {
+                width: 100%;
+                height: 120px;
+               
+            }
+            #post > div > div > div > div {
+                float: left;
+                width: 43%;
+                height: 40%;
+               
+                margin: 0 2%;
+                font-size: 20px;
+            }
+            #post > div > div > div:last-child {
+                height: 30px;
+                width: 150px;
+                border: 2px solid rgb(80,10,210);
+                border-radius: 3px;
+                text-align: center;
+                color:  rgb(80,10,210);
+                font-size: 18px;
+            }
+            .left-padding {
+                padding-left: 50px;
+            }
