@@ -1,0 +1,53 @@
+#top-bar {
+    width: 100%;
+    height: 100px;
+    
+}
+#chargeBee {
+    width: 140px;
+    height: 80px;
+    
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: 32px;
+    padding: 10px;
+}
+.top-left {
+    width: 100px;
+    height: 80px;
+    
+    float: left;
+    font-family: 'Karla', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 540;
+    padding-top: 20px;
+}
+#top-right {
+    background-color: rgb(255,120,70)
+;
+    width: 170px;
+    height: 25px;
+    float: right;
+    margin: 20px 50px 20px 10px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 540;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 2px;
+}
+#log-in {
+    width: 100px;
+    height: 25px;
+    float: right;
+    margin: 25px 0;
+    font-family: 'Karla', sans-serif;
+    
+    color: black;
+    font-weight: 540;
+
+}
+span {
+    font-size: 20px;
+}
