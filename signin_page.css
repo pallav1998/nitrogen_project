@@ -9,23 +9,35 @@
     /* margin-bottom: 50px;     */
     float: left;
 }
+#chargeBee {
+    width: 140px;
+    height: 80px;
+    
+    float: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: 32px;
+    padding: 10px;
+    cursor: pointer;
+}
 .image_name {
-    border: 2px solid darkblue;
+    border: 2px solid rgb(56,3,154);
     height: 15%;
     width: 100%;
     text-align: center;
     color: white;
-    background-color: darkblue;
+    background-color: rgb(56,3,154);
 }
 .image_diss {
-    border: 2px solid blue;
+    border: 2px solid rgb(80,10,210);
     height: 35%;
     width: 100%;
     text-align: center;
     color: white;
-    background-color: blue;
+    background-color:rgb(80,10,210);
 }
-
+a:link {
+    text-decoration: none;
+  }
 
 #heading1 {
     /* border: 2px dashed black; */
@@ -83,7 +95,7 @@
 
 #box {
     border: 0.5px solid gray;
-    height: 65%;
+    height: 75%;
     width: 50%;
     border-radius: 10px;
     margin-left: 30%;
